@@ -14,5 +14,5 @@ class NextCard:
         return self
     
     def show(self):
-        for card1 in self.nextcard:
-            card1.show()
+        for card2 in self.nextcard:
+            card2.show()
